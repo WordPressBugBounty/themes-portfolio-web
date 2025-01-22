@@ -3,9 +3,9 @@
 Contributors: acmethemes
 Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, portfolio, entertainment, education
 Requires at least: 4.8
-Tested up to: 6.2
+Tested up to: 6.7
 Requires PHP: 5.6.20
-Stable tag: 3.0.4
+Stable tag: 3.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +36,10 @@ Portfolio Web is minimalist and sleek WordPress theme designed particularly for 
 3. Add/Edit Widgets, Page and Post
 
 == Change log ==
+
+= 3.0.5 - Jan 22 2025 =
+* Added: Enhanced support for the latest WordPress version.
+* Updated: Improved CSS compatibility.
 
 = 3.0.4 - August 01 2023 =
 * Added: Recommended Classic Widgets plugin
